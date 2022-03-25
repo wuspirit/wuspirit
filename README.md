@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wuspirit
-- 👀 I’m interested in baketball
+- 👀 I’m interested in basketball
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on spring recruitment
 - 📫 How to reach me my email-2532619688@qq.com
